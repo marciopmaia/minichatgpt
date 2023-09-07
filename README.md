@@ -1,1 +1,5 @@
 # minichatgpt
+
+TODO
+
+Develop MiniChatGPT
